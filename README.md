@@ -1,0 +1,2 @@
+# technology-becomes-invisible-abstraction-example
+This example demonstrates how technology becomes 'invisible' by abstracting away its underlying complexity. It simulates a system where initial setup of a technology is visible, but subsequent interactions only expose the desired outcome, making the technology's mechanisms fade into the background as an assumed utility. This illustrates the concept
